@@ -10,7 +10,7 @@ export function Error(){
         setTimeout(()=>{
             navigate("/");
         },3000);
-    },[])
+    },[navigate])
 
     return(
         // message on screen
