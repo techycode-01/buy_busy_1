@@ -23,6 +23,7 @@
   <li>User can increase or decrease the quantity of a product.</li>
   <li>User can purchase all the product at once by clicking on purchase all.</li>
   <li>User can see his placed order history with date and time of order and list of all the product purchased with total amount.</li></li>
+  <li>User can filter products with various parameters.</li>
   <li>User data will be saved in database permanently so that he can see his order history any time.</li>
 </ul>
 
